@@ -1,0 +1,5 @@
+.section-1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.655),rgba(0, 0, 0, 0.478)), url(./asset/img/unsplash_yTwXpLO5HAA.png);
+    background-size: cover;
+    background-position: center;
+}
